@@ -3,7 +3,7 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**A curated collection of production‑ready Jupyter notebooks demonstrating foundational concepts in probabilistic machine learning, designed to showcase technical depth, reproducibility, and scientific rigor for PhD applications.**
+**A curated collection of production‑ready Jupyter notebooks demonstrating foundational concepts in probabilistic machine learning, designed to showcase technical depth, reproducibility, and scientific rigor.**
 
 ---
 
