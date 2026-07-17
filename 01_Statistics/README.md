@@ -82,6 +82,6 @@ All notebooks are designed to run in a Conda environment named `ai_env` with **P
 
 **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/Artificial_Intelligence.git
-cd Artificial_Intelligence
+git clone hhttps://github.com/phabel-LD/Artificial_Intelligence/tree/main/01_Statistics
+cd Artificial_Intelligence/01_Statistics
 ```
