@@ -1,0 +1,166 @@
+aiofiles @ file:///home/conda/feedstock_root/build_artifacts/aiofiles_1733829030387/work
+annotated-doc @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_annotated-doc_1762868213/work
+annotated-types @ file:///home/conda/feedstock_root/build_artifacts/annotated-types_1733247046149/work
+anyio @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_anyio_1783889660/work
+asttokens==2.0.8
+audioread==3.1.0
+backcall==0.2.0
+backports.zstd @ file:///D:/bld/bld/rattler-build_backports.zstd_1781450841/work
+blis==1.3.3
+Brotli @ file:///D:/bld/brotli-split_1764017006836/work
+catalogue==2.0.10
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1781719850827/work/certifi
+cffi==2.1.0
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1783505251992/work
+click @ file:///D:/bld/bld/rattler-build_click_1783085395/work
+cloudpathlib==0.24.0
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+confection==1.3.3
+contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_cycler_1764466758/work
+cymem==2.0.13
+debugpy==1.6.3
+decorator==5.1.1
+defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
+dnspython @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_dnspython_1757292856/work
+email-validator @ file:///home/conda/feedstock_root/build_artifacts/email-validator-meta_1756221362582/work
+entrypoints==0.4
+es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl#sha256=e451a83d6df79b87e9eed0cb553f03e99e36a3bab18a7b79f0dcfd1fdf875e12
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1763918002538/work
+executing==1.0.0
+Faker @ file:///home/conda/feedstock_root/build_artifacts/faker_1784062361318/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_fastapi-core_1782997724/work
+fastapi-cli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_fastapi-cli_1784211753/work
+fastar @ file:///D:/bld/bld/rattler-build_fastar_1776177902/work
+ffmpy @ file:///home/conda/feedstock_root/build_artifacts/ffmpy_1659474992694/work
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1784229351137/work
+fonttools @ file:///D:/bld/fonttools_1778770296989/work
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1781615776425/work
+gradio @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_gradio_1783463848/work
+gradio_client @ file:///home/conda/feedstock_root/build_artifacts/gradio-client_1776730231194/work
+groovy @ file:///home/conda/feedstock_root/build_artifacts/groovy-python_1753106748838/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_h11_1767729720/work
+h2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_h2_1756364871/work
+hf-gradio @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_hf-gradio_1776866588/work
+hf-xet @ file:///C:/Users/task_178224168074330/croot/hf-xet_1782241884533/work
+hpack @ file:///home/conda/feedstock_root/build_artifacts/hpack_1782283902770/work
+httpcore @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_httpcore_1745602916/work
+httptools @ file:///D:/bld/httptools_1779757474942/work
+httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1733663348460/work
+huggingface_hub @ file:///home/conda/feedstock_root/build_artifacts/huggingface_hub_1770381286267/work
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1737618333194/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_idna_1781620148/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1738273805233/work
+imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1780869200419/work
+ipykernel==6.15.3
+ipython==8.5.0
+jedi==0.18.1
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jinja2_1764517220/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1765794027227/work
+jupyter_client==8.9.1
+jupyter_core==5.9.1
+kagglehub @ file:///C:/miniconda3/conda-bld/kagglehub_1762517370506/work
+kagglesdk==0.1.28
+kiwisolver @ file:///D:/bld/bld/rattler-build_kiwisolver_1773067061/work
+lazy-loader @ file:///home/conda/feedstock_root/build_artifacts/lazy-loader_1772817235966/work
+librosa==0.11.0
+llvmlite==0.48.0
+markdown-it-py @ file:///home/conda/feedstock_root/build_artifacts/markdown-it-py_1778169583724/work
+MarkupSafe @ file:///D:/bld/markupsafe_1772444962217/work
+matplotlib==3.10.9
+matplotlib-inline==0.1.6
+mdurl @ file:///home/conda/feedstock_root/build_artifacts/mdurl_1733255585584/work
+msgpack==1.2.1
+munkres==1.1.4
+murmurhash==1.0.15
+nest-asyncio==1.5.5
+networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1731521053/work
+nltk @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_nltk_1783488093/work
+numba==0.66.0
+numpy @ file:///D:/bld/numpy_1747544591878/work/dist/numpy-2.2.6-cp310-cp310-win_amd64.whl#sha256=af66576ce916c795ffa81be9620c8138a3fda6e1713b2bf7775a630e47eca3a8
+opencv-python==4.13.0
+opencv-python-headless==4.13.0
+orjson @ file:///D:/bld/bld/rattler-build_orjson_1778694333/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1777103621/work
+pandas @ file:///D:/bld/pandas_1764614482805/work
+parso==0.8.3
+patsy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_patsy_1760998269/work
+pickleshare==0.7.5
+pillow @ file:///D:/bld/bld/rattler-build_pillow_1782912129/work
+platformdirs==4.10.0
+ply @ file:///home/conda/feedstock_root/build_artifacts/ply_1733239724146/work
+pooch==1.9.0
+preshed==3.0.13
+prompt-toolkit==3.0.31
+protobuf==7.35.1
+psutil==5.9.2
+pure-eval==0.2.2
+pycparser==3.0
+pydantic @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pydantic_1778103405/work
+pydantic-extra-types @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pydantic-extra-types_1773664659/work
+pydantic-settings @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pydantic-settings_1781884990/work
+pydantic_core @ file:///C:/Users/task_177867691180519/croot/pydantic-core_1778677019046/work
+pydub @ file:///home/conda/feedstock_root/build_artifacts/pydub_1734638032476/work
+Pygments==2.13.0
+pyparsing==3.0.9
+PyQt5==5.15.11
+PyQt5_sip @ file:///D:/bld/pyqt-split_1759495424548/work/pyqt_sip
+PySocks @ file:///D:/bld/pysocks_1733217287171/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dotenv_1772388605/work
+python-multipart @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-multipart_1780610429/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pytz_1777892201/work
+pywin32==304
+PyYAML @ file:///D:/bld/pyyaml_1770223256606/work
+pyzmq==27.1.0
+regex @ file:///D:/bld/regex_1783733114474/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_requests_1778851103/work
+rich @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rich_1775991661/work/dist
+rich-toolkit @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rich-toolkit_1784024058/work
+ruff @ file:///D:/bld/bld/rattler-build_ruff_1784237363/work
+safehttpx @ file:///home/conda/feedstock_root/build_artifacts/safehttpx_1761342542065/work
+scikit-image @ file:///C:/miniconda3/conda-bld/scikit-image_1764772882420/work
+scikit-learn @ file:///D:/bld/scikit-learn_1757432814257/work/dist/scikit_learn-1.7.2-cp310-cp310-win_amd64.whl#sha256=80780e7bac7c11947bc8f76f74cce4a729277e8fc2c67f76db5038e95de040c9
+scipy @ file:///C:/bld/scipy-split_1739790833536/work/dist/scipy-1.15.2-cp310-cp310-win_amd64.whl#sha256=4748853a0c723cda1fa2bdead847ba7c2443bde9cec3436e3e7243cfa54b55ff
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1733730015268/work
+semantic-version @ file:///home/conda/feedstock_root/build_artifacts/semantic_version_1653579368137/work
+shellingham @ file:///home/conda/feedstock_root/build_artifacts/shellingham_1762858192781/work
+sip @ file:///D:/bld/sip_1759437840598/work
+six==1.16.0
+sklearn-compat @ file:///home/conda/feedstock_root/build_artifacts/sklearn-compat_1780859373442/work
+smart_open==8.0.1
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1762941432086/work
+soundfile==0.14.0
+soxr==1.1.0
+spacy==3.8.14
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+srsly==2.5.3
+stack-data==0.5.0
+starlette @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_starlette_1781447071/work
+statsmodels @ file:///D:/bld/statsmodels_1764983000605/work
+thinc==8.3.13
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+tifffile @ file:///C:/b/abs_8aikas7x_4/croot/tifffile_1741164551582/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_toml_1764486833/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tomli_1774492402/work
+tomlkit @ file:///home/conda/feedstock_root/build_artifacts/tomlkit_1768476518220/work
+tornado @ file:///D:/bld/tornado_1781006762719/work
+tqdm @ file:///D:/bld/bld/rattler-build_tqdm_1783440259/work
+traitlets==5.15.1
+typer @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typer_1784167351/work
+typer-slim==0.24.0
+typing-inspection @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing-inspection_1777105465/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1783002732/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1783704735836/work
+unicodedata2 @ file:///D:/bld/unicodedata2_1770908984535/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1778188571305/work
+uvicorn @ file:///D:/bld/bld/rattler-build_uvicorn_1783518931/work
+wasabi==1.1.3
+watchfiles @ file:///D:/bld/bld/rattler-build_watchfiles_1781180340/work
+wcwidth==0.2.5
+weasel==1.0.0
+websockets @ file:///D:/bld/bld/rattler-build_websockets_1756476361/work/dist
+win_inet_pton @ file:///D:/bld/win_inet_pton_1733130564612/work
+wordcloud @ file:///D:/bld/wordcloud_1769263528573/work
+wrapt==2.2.2
