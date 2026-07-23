@@ -1,0 +1,17 @@
+# Ignore dataset downloads
+oxford-iiit-pet/
+*.tar.gz
+*.zip
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large model files
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Ignore data files (if not needed)
+*.npz
+*.csv   # if you don't need dataset.csv in the repo
